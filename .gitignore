@@ -1,0 +1,17 @@
+bin/*
+bin*/
+build*/
+*~
+*.swp
+*.swo
+*.bak
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.mo
+*.xcodeproj
+*.dmg
+*.vcproj*
+*.user
+*.rwtxlf
